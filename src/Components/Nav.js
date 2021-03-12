@@ -13,7 +13,7 @@ export default function Nav() {
       }}
     >
       <NavLink to="/">Home</NavLink>
-      <NavLink to="/one">One</NavLink>
+      <NavLink to="/one">Result</NavLink>
     </div>
   );
 }
